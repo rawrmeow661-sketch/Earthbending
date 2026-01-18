@@ -17,7 +17,7 @@ This is a Roblox script for the game Plane Crazy that allows you to perform "ear
 ## Loadstring
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rawrmeow661-sketch/plane-crazy-earthbend/main/earthbending.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rawrmeow661-sketch/Earthbending/main/earthbending.lua"))()
 ```
 
 Replace `yourusername` with your actual GitHub username.
